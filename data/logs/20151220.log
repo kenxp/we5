@@ -1,0 +1,26 @@
+2015-12-20 18:13:44 trace :
+------------
+Array:
+from : oOhiYjhG2UOX21Nj1G-X3SS5t2UM ;
+to : gh_c035d5b82e08 ;
+time : 1450606421 ;
+type : event ;
+event : subscribe ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjhG2UOX21Nj1G-X3SS5t2UM ;
+createtime : 1450606421 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-20 18:13:44 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-20 18:13:44 response :
+------------
+Array:
+params : Array ;
+

@@ -1,0 +1,2915 @@
+2016-01-25 00:19:48 trace :
+------------
+Array:
+from : oOhiYjsl9Iz4lnTz3qqfNT6UhH2o ;
+to : gh_c035d5b82e08 ;
+time : 1453652511 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsl9Iz4lnTz3qqfNT6UhH2o ;
+createtime : 1453652511 ;
+msgtype : event ;
+latitude : 33.430016 ;
+longitude : 114.892090 ;
+precision : 2133.000000 ;
+location_x : 33.430016 ;
+location_y : 114.892090 ;
+
+2016-01-25 00:19:48 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 00:19:48 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:40:34 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453678958 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453678958 ;
+msgtype : event ;
+latitude : 34.061058 ;
+longitude : 116.433929 ;
+precision : 90.000000 ;
+location_x : 34.061058 ;
+location_y : 116.433929 ;
+
+2016-01-25 07:40:34 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:40:34 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:40:40 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453678964 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453678964 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&p=detail&id=32&do=shop&m=ewei_shop ;
+menuid : 401289190 ;
+
+2016-01-25 07:40:40 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:40:40 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:42:55 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453679099 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453679099 ;
+msgtype : event ;
+latitude : 34.514168 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514168 ;
+location_y : 112.165192 ;
+
+2016-01-25 07:42:55 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:42:55 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:42:57 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453679100 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453679100 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 07:42:57 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:42:57 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:43:08 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679111 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679111 ;
+msgtype : event ;
+latitude : 34.061031 ;
+longitude : 116.434227 ;
+precision : 70.000000 ;
+location_x : 34.061031 ;
+location_y : 116.434227 ;
+
+2016-01-25 07:43:08 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:43:08 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:43:11 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679115 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679115 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=home& ;
+menuid : 401289190 ;
+
+2016-01-25 07:43:11 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:43:11 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:43:29 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679133 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679133 ;
+msgtype : event ;
+latitude : 34.061031 ;
+longitude : 116.434227 ;
+precision : 70.000000 ;
+location_x : 34.061031 ;
+location_y : 116.434227 ;
+
+2016-01-25 07:43:29 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:43:29 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:43:36 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679140 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679140 ;
+msgtype : event ;
+eventkey : http://www.hasxmy.com ;
+menuid : 401289190 ;
+
+2016-01-25 07:43:36 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:43:36 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:45:25 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679249 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679249 ;
+msgtype : event ;
+latitude : 34.061054 ;
+longitude : 116.433952 ;
+precision : 90.000000 ;
+location_x : 34.061054 ;
+location_y : 116.433952 ;
+
+2016-01-25 07:45:25 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:45:25 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:45:30 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679253 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679253 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=home&t=3 ;
+menuid : 401289190 ;
+
+2016-01-25 07:45:30 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:45:30 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:45:42 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679266 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679266 ;
+msgtype : event ;
+latitude : 34.061054 ;
+longitude : 116.433952 ;
+precision : 90.000000 ;
+location_x : 34.061054 ;
+location_y : 116.433952 ;
+
+2016-01-25 07:45:42 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:45:42 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:45:46 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679269 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679269 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=home& ;
+menuid : 401289190 ;
+
+2016-01-25 07:45:46 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:45:46 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:45:50 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679274 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679274 ;
+msgtype : event ;
+latitude : 34.061058 ;
+longitude : 116.433929 ;
+precision : 90.000000 ;
+location_x : 34.061058 ;
+location_y : 116.433929 ;
+
+2016-01-25 07:45:50 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:45:50 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:45:53 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679277 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679277 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=home& ;
+menuid : 401289190 ;
+
+2016-01-25 07:45:53 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:45:53 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:46:00 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679284 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679284 ;
+msgtype : event ;
+latitude : 34.061058 ;
+longitude : 116.433929 ;
+precision : 90.000000 ;
+location_x : 34.061058 ;
+location_y : 116.433929 ;
+
+2016-01-25 07:46:00 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:46:00 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:48:31 trace :
+------------
+Array:
+from : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+to : gh_c035d5b82e08 ;
+time : 1453679435 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+createtime : 1453679435 ;
+msgtype : event ;
+msgid : 401361090 ;
+status : success ;
+
+2016-01-25 07:48:31 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:48:31 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:49:53 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453679516 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453679516 ;
+msgtype : event ;
+latitude : 34.514183 ;
+longitude : 112.165199 ;
+precision : 150.000000 ;
+location_x : 34.514183 ;
+location_y : 112.165199 ;
+
+2016-01-25 07:49:53 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:49:53 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:49:54 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453679518 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453679518 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 07:49:54 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:49:54 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:51:41 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679625 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679625 ;
+msgtype : event ;
+latitude : 34.061058 ;
+longitude : 116.433929 ;
+precision : 90.000000 ;
+location_x : 34.061058 ;
+location_y : 116.433929 ;
+
+2016-01-25 07:51:41 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:51:41 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:51:50 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679634 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679634 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=home& ;
+menuid : 401289190 ;
+
+2016-01-25 07:51:50 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:51:50 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:51:56 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679640 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679640 ;
+msgtype : event ;
+latitude : 34.061058 ;
+longitude : 116.433929 ;
+precision : 90.000000 ;
+location_x : 34.061058 ;
+location_y : 116.433929 ;
+
+2016-01-25 07:51:56 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:51:56 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:52:05 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679649 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679649 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&p=detail&id=32&do=shop&m=ewei_shop ;
+menuid : 401289190 ;
+
+2016-01-25 07:52:05 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:52:05 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:52:21 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453679665 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453679665 ;
+msgtype : event ;
+latitude : 34.514183 ;
+longitude : 112.165199 ;
+precision : 150.000000 ;
+location_x : 34.514183 ;
+location_y : 112.165199 ;
+
+2016-01-25 07:52:21 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:52:21 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:52:23 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453679667 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453679667 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 07:52:23 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:52:23 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:52:23 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679667 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679667 ;
+msgtype : event ;
+latitude : 34.061058 ;
+longitude : 116.433929 ;
+precision : 90.000000 ;
+location_x : 34.061058 ;
+location_y : 116.433929 ;
+
+2016-01-25 07:52:23 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:52:23 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:52:28 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679672 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679672 ;
+msgtype : event ;
+latitude : 34.061054 ;
+longitude : 116.433952 ;
+precision : 90.000000 ;
+location_x : 34.061054 ;
+location_y : 116.433952 ;
+
+2016-01-25 07:52:28 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:52:28 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:52:31 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679674 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679674 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401289190 ;
+
+2016-01-25 07:52:31 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:52:31 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:52:38 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453679682 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453679682 ;
+msgtype : event ;
+latitude : 34.514183 ;
+longitude : 112.165199 ;
+precision : 150.000000 ;
+location_x : 34.514183 ;
+location_y : 112.165199 ;
+
+2016-01-25 07:52:38 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:52:38 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:53:25 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679729 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679729 ;
+msgtype : event ;
+latitude : 34.061054 ;
+longitude : 116.433952 ;
+precision : 90.000000 ;
+location_x : 34.061054 ;
+location_y : 116.433952 ;
+
+2016-01-25 07:53:25 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:53:25 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:53:26 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679729 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679729 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&p=detail&id=32&do=shop&m=ewei_shop ;
+menuid : 401289190 ;
+
+2016-01-25 07:53:26 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:53:26 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:53:33 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679737 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679737 ;
+msgtype : event ;
+latitude : 34.061054 ;
+longitude : 116.433952 ;
+precision : 90.000000 ;
+location_x : 34.061054 ;
+location_y : 116.433952 ;
+
+2016-01-25 07:53:33 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:53:33 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 07:53:34 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679738 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679738 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401289190 ;
+
+2016-01-25 07:53:34 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 07:53:34 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 07:54:40 trace :
+------------
+Array:
+from : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+to : gh_c035d5b82e08 ;
+time : 1453679804 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjvZOu-rQiPj4SGRC2D9x8BU ;
+createtime : 1453679804 ;
+msgtype : event ;
+latitude : 34.061058 ;
+longitude : 116.433929 ;
+precision : 90.000000 ;
+location_x : 34.061058 ;
+location_y : 116.433929 ;
+
+2016-01-25 07:54:40 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 07:54:40 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 08:53:24 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453683328 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453683328 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 08:53:24 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 08:53:24 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 09:41:49 trace :
+------------
+Array:
+from : oOhiYjnMWmoluLPSY7ed9Cq8Ykas ;
+to : gh_c035d5b82e08 ;
+time : 1453686232 ;
+type : text ;
+event :  ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjnMWmoluLPSY7ed9Cq8Ykas ;
+createtime : 1453686232 ;
+msgtype : text ;
+content : 进口杂粮粕原料：                 
+天津港：美国DDGS、巴基斯坦菜粕、进口美粱澳粱、棕榈粕、苜蓿草颗粒、苜蓿草
+青岛港：美国DDGS、进口美粱澳粱、法国大麦、乌克兰大麦、棕榈粕、越南木薯渣粉、木薯颗粒
+营口港：加拿大双低菜粕
+南通港：进口美粱澳粱、法国大麦、乌克兰大麦
+日照港：乌克兰大麦
+大连港：越南木薯渣粉
+诚信联电：夏18322302288
+天津国慧国际贸易 ;
+msgid : 6243534825486829984 ;
+redirection :  ;
+source :  ;
+
+2016-01-25 09:41:49 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 09:41:49 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjnMWmoluLPSY7ed9Cq8Ykas ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 10:00:06 trace :
+------------
+Array:
+from : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+to : gh_c035d5b82e08 ;
+time : 1453687330 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+createtime : 1453687330 ;
+msgtype : event ;
+latitude : 35.458061 ;
+longitude : 112.411819 ;
+precision : 150.000000 ;
+location_x : 35.458061 ;
+location_y : 112.411819 ;
+
+2016-01-25 10:00:06 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 10:00:06 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 10:00:11 trace :
+------------
+Array:
+from : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+to : gh_c035d5b82e08 ;
+time : 1453687335 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+createtime : 1453687335 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&p=detail&id=32&do=shop&m=ewei_shop ;
+menuid : 401318213 ;
+
+2016-01-25 10:00:11 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 10:00:11 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 10:00:35 trace :
+------------
+Array:
+from : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+to : gh_c035d5b82e08 ;
+time : 1453687359 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+createtime : 1453687359 ;
+msgtype : event ;
+latitude : 35.458061 ;
+longitude : 112.411819 ;
+precision : 150.000000 ;
+location_x : 35.458061 ;
+location_y : 112.411819 ;
+
+2016-01-25 10:00:35 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 10:00:35 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 10:00:38 trace :
+------------
+Array:
+from : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+to : gh_c035d5b82e08 ;
+time : 1453687362 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+createtime : 1453687362 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 10:00:38 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 10:00:38 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 10:01:44 trace :
+------------
+Array:
+from : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+to : gh_c035d5b82e08 ;
+time : 1453687428 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjodFO0xYghB9M_KRN6XfheE ;
+createtime : 1453687428 ;
+msgtype : event ;
+latitude : 35.454151 ;
+longitude : 112.418159 ;
+precision : 150.000000 ;
+location_x : 35.454151 ;
+location_y : 112.418159 ;
+
+2016-01-25 10:01:44 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 10:01:44 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 10:04:08 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453687572 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453687572 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 10:04:08 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 10:04:08 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 10:04:10 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453687574 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453687574 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 10:04:10 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 10:04:10 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 10:04:57 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453687621 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453687621 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 10:04:57 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 10:04:57 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 11:24:51 trace :
+------------
+Array:
+from : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+to : gh_c035d5b82e08 ;
+time : 1453692415 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+createtime : 1453692415 ;
+msgtype : event ;
+latitude : 32.844639 ;
+longitude : 114.802948 ;
+precision : 120.000000 ;
+location_x : 32.844639 ;
+location_y : 114.802948 ;
+
+2016-01-25 11:24:51 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 11:24:51 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 11:31:55 trace :
+------------
+Array:
+from : oOhiYjtZ-POm24o_2zpPH5YlheIw ;
+to : gh_c035d5b82e08 ;
+time : 1453692839 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjtZ-POm24o_2zpPH5YlheIw ;
+createtime : 1453692839 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401289190 ;
+
+2016-01-25 11:31:55 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 11:31:55 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjtZ-POm24o_2zpPH5YlheIw ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 11:33:29 trace :
+------------
+Array:
+from : oOhiYjtZ-POm24o_2zpPH5YlheIw ;
+to : gh_c035d5b82e08 ;
+time : 1453692933 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjtZ-POm24o_2zpPH5YlheIw ;
+createtime : 1453692933 ;
+msgtype : event ;
+msgid : 401362060 ;
+status : success ;
+
+2016-01-25 11:33:29 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 11:33:29 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjtZ-POm24o_2zpPH5YlheIw ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 14:16:06 trace :
+------------
+Array:
+from : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+to : gh_c035d5b82e08 ;
+time : 1453702690 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+createtime : 1453702690 ;
+msgtype : event ;
+latitude : 34.050671 ;
+longitude : 114.841614 ;
+precision : 40.000000 ;
+location_x : 34.050671 ;
+location_y : 114.841614 ;
+
+2016-01-25 14:16:06 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 14:16:06 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 14:16:16 trace :
+------------
+Array:
+from : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+to : gh_c035d5b82e08 ;
+time : 1453702701 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+createtime : 1453702701 ;
+msgtype : event ;
+latitude : 34.050671 ;
+longitude : 114.841614 ;
+precision : 40.000000 ;
+location_x : 34.050671 ;
+location_y : 114.841614 ;
+
+2016-01-25 14:16:16 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 14:16:16 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 16:28:05 trace :
+------------
+Array:
+from : oOhiYjq2D5swf2EarGABErkBgmmU ;
+to : gh_c035d5b82e08 ;
+time : 1453710609 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjq2D5swf2EarGABErkBgmmU ;
+createtime : 1453710609 ;
+msgtype : event ;
+msgid : 401364222 ;
+status : success ;
+
+2016-01-25 16:28:05 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 16:28:05 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjq2D5swf2EarGABErkBgmmU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 17:35:32 trace :
+------------
+Array:
+from : oOhiYju0j85udMzZ3HtkZ196II_s ;
+to : gh_c035d5b82e08 ;
+time : 1453714657 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYju0j85udMzZ3HtkZ196II_s ;
+createtime : 1453714657 ;
+msgtype : event ;
+msgid : 401364736 ;
+status : success ;
+
+2016-01-25 17:35:32 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 17:35:32 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYju0j85udMzZ3HtkZ196II_s ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 17:36:52 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453714736 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453714736 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 17:36:52 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 17:36:52 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 17:36:58 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453714743 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453714743 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 17:36:58 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 17:36:58 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 17:37:01 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453714746 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453714746 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 17:37:01 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 17:37:01 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 17:38:58 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453714862 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453714862 ;
+msgtype : event ;
+latitude : 34.514168 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514168 ;
+location_y : 112.165192 ;
+
+2016-01-25 17:38:58 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 17:38:58 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 17:39:00 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453714865 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453714865 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 17:39:00 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 17:39:00 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 17:40:04 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453714929 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453714929 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 17:40:04 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 17:40:04 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 17:56:43 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453715928 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453715928 ;
+msgtype : event ;
+msgid : 401364859 ;
+status : success ;
+
+2016-01-25 17:56:43 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 17:56:43 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 17:58:18 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453716023 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453716023 ;
+msgtype : event ;
+msgid : 401364868 ;
+status : success ;
+
+2016-01-25 17:58:18 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 17:58:18 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 18:12:15 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453716860 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453716860 ;
+msgtype : event ;
+latitude : 34.514168 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514168 ;
+location_y : 112.165192 ;
+
+2016-01-25 18:12:15 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:12:15 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:12:21 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453716866 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453716866 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 90.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 18:12:21 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:12:21 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:12:27 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453716872 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453716872 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 90.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 18:12:27 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:12:27 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:12:33 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453716877 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453716877 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 18:12:33 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 18:12:33 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 18:13:00 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453716905 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453716905 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 90.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 18:13:00 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:13:00 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:13:51 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453716956 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453716956 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 18:13:51 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:13:51 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:14:14 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1453716979 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1453716979 ;
+msgtype : event ;
+latitude : 34.514175 ;
+longitude : 112.165192 ;
+precision : 150.000000 ;
+location_x : 34.514175 ;
+location_y : 112.165192 ;
+
+2016-01-25 18:14:14 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:14:14 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:53:42 trace :
+------------
+Array:
+from : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+to : gh_c035d5b82e08 ;
+time : 1453719347 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+createtime : 1453719347 ;
+msgtype : event ;
+latitude : 34.116409 ;
+longitude : 114.610115 ;
+precision : 980.000000 ;
+location_x : 34.116409 ;
+location_y : 114.610115 ;
+
+2016-01-25 18:53:42 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:53:42 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:53:48 trace :
+------------
+Array:
+from : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+to : gh_c035d5b82e08 ;
+time : 1453719353 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+createtime : 1453719353 ;
+msgtype : event ;
+latitude : 34.116409 ;
+longitude : 114.610115 ;
+precision : 980.000000 ;
+location_x : 34.116409 ;
+location_y : 114.610115 ;
+
+2016-01-25 18:53:48 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:53:48 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:53:51 trace :
+------------
+Array:
+from : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+to : gh_c035d5b82e08 ;
+time : 1453719356 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+createtime : 1453719356 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401289190 ;
+
+2016-01-25 18:53:51 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 18:53:51 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 18:55:20 trace :
+------------
+Array:
+from : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+to : gh_c035d5b82e08 ;
+time : 1453719445 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+createtime : 1453719445 ;
+msgtype : event ;
+latitude : 34.116409 ;
+longitude : 114.610115 ;
+precision : 980.000000 ;
+location_x : 34.116409 ;
+location_y : 114.610115 ;
+
+2016-01-25 18:55:20 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:55:20 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:55:27 trace :
+------------
+Array:
+from : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+to : gh_c035d5b82e08 ;
+time : 1453719452 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+createtime : 1453719452 ;
+msgtype : event ;
+latitude : 34.116409 ;
+longitude : 114.610115 ;
+precision : 980.000000 ;
+location_x : 34.116409 ;
+location_y : 114.610115 ;
+
+2016-01-25 18:55:27 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:55:27 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:55:33 trace :
+------------
+Array:
+from : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+to : gh_c035d5b82e08 ;
+time : 1453719458 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+createtime : 1453719458 ;
+msgtype : event ;
+latitude : 34.116409 ;
+longitude : 114.610115 ;
+precision : 980.000000 ;
+location_x : 34.116409 ;
+location_y : 114.610115 ;
+
+2016-01-25 18:55:33 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:55:33 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 18:55:38 trace :
+------------
+Array:
+from : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+to : gh_c035d5b82e08 ;
+time : 1453719463 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjjAXk6oibPNppIXMDW8nDHY ;
+createtime : 1453719463 ;
+msgtype : event ;
+latitude : 34.121952 ;
+longitude : 114.576187 ;
+precision : 5.000000 ;
+location_x : 34.121952 ;
+location_y : 114.576187 ;
+
+2016-01-25 18:55:38 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 18:55:38 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 19:00:20 trace :
+------------
+Array:
+from : oOhiYjq2D5swf2EarGABErkBgmmU ;
+to : gh_c035d5b82e08 ;
+time : 1453719745 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjq2D5swf2EarGABErkBgmmU ;
+createtime : 1453719745 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 19:00:20 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 19:00:20 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjq2D5swf2EarGABErkBgmmU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 19:03:32 trace :
+------------
+Array:
+from : oOhiYjq2D5swf2EarGABErkBgmmU ;
+to : gh_c035d5b82e08 ;
+time : 1453719937 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjq2D5swf2EarGABErkBgmmU ;
+createtime : 1453719937 ;
+msgtype : event ;
+msgid : 401365239 ;
+status : success ;
+
+2016-01-25 19:03:32 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 19:03:32 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjq2D5swf2EarGABErkBgmmU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 19:07:51 trace :
+------------
+Array:
+from : oOhiYjq2D5swf2EarGABErkBgmmU ;
+to : gh_c035d5b82e08 ;
+time : 1453720195 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjq2D5swf2EarGABErkBgmmU ;
+createtime : 1453720195 ;
+msgtype : event ;
+msgid : 401365258 ;
+status : success ;
+
+2016-01-25 19:07:51 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 19:07:51 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjq2D5swf2EarGABErkBgmmU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 19:21:06 trace :
+------------
+Array:
+from : oOhiYjq2D5swf2EarGABErkBgmmU ;
+to : gh_c035d5b82e08 ;
+time : 1453720991 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjq2D5swf2EarGABErkBgmmU ;
+createtime : 1453720991 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 19:21:06 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 19:21:06 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjq2D5swf2EarGABErkBgmmU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 19:22:38 trace :
+------------
+Array:
+from : oOhiYjq2D5swf2EarGABErkBgmmU ;
+to : gh_c035d5b82e08 ;
+time : 1453721083 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjq2D5swf2EarGABErkBgmmU ;
+createtime : 1453721083 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 19:22:38 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 19:22:38 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjq2D5swf2EarGABErkBgmmU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 19:37:04 trace :
+------------
+Array:
+from : oOhiYjq2D5swf2EarGABErkBgmmU ;
+to : gh_c035d5b82e08 ;
+time : 1453721949 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjq2D5swf2EarGABErkBgmmU ;
+createtime : 1453721949 ;
+msgtype : event ;
+msgid : 401365391 ;
+status : success ;
+
+2016-01-25 19:37:05 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 19:37:05 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjq2D5swf2EarGABErkBgmmU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 19:40:45 trace :
+------------
+Array:
+from : oOhiYjq2D5swf2EarGABErkBgmmU ;
+to : gh_c035d5b82e08 ;
+time : 1453722170 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjq2D5swf2EarGABErkBgmmU ;
+createtime : 1453722170 ;
+msgtype : event ;
+msgid : 401365405 ;
+status : success ;
+
+2016-01-25 19:40:45 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 19:40:45 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjq2D5swf2EarGABErkBgmmU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 20:03:57 trace :
+------------
+Array:
+from : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+to : gh_c035d5b82e08 ;
+time : 1453723561 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+createtime : 1453723561 ;
+msgtype : event ;
+latitude : 32.735069 ;
+longitude : 114.978722 ;
+precision : 70.000000 ;
+location_x : 32.735069 ;
+location_y : 114.978722 ;
+
+2016-01-25 20:03:57 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 20:03:57 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 20:04:26 trace :
+------------
+Array:
+from : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+to : gh_c035d5b82e08 ;
+time : 1453723590 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+createtime : 1453723590 ;
+msgtype : event ;
+latitude : 32.735294 ;
+longitude : 114.978745 ;
+precision : 70.000000 ;
+location_x : 32.735294 ;
+location_y : 114.978745 ;
+
+2016-01-25 20:04:26 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 20:04:26 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 20:04:41 trace :
+------------
+Array:
+from : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+to : gh_c035d5b82e08 ;
+time : 1453723606 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+createtime : 1453723606 ;
+msgtype : event ;
+eventkey : http://www.hasxmy.com ;
+menuid : 401289190 ;
+
+2016-01-25 20:04:41 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 20:04:41 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 20:04:53 trace :
+------------
+Array:
+from : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+to : gh_c035d5b82e08 ;
+time : 1453723618 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+createtime : 1453723618 ;
+msgtype : event ;
+latitude : 32.735294 ;
+longitude : 114.978745 ;
+precision : 70.000000 ;
+location_x : 32.735294 ;
+location_y : 114.978745 ;
+
+2016-01-25 20:04:53 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 20:04:53 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 20:04:58 trace :
+------------
+Array:
+from : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+to : gh_c035d5b82e08 ;
+time : 1453723623 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+createtime : 1453723623 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=home&t=3 ;
+menuid : 401289190 ;
+
+2016-01-25 20:04:58 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 20:04:58 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 20:05:10 trace :
+------------
+Array:
+from : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+to : gh_c035d5b82e08 ;
+time : 1453723635 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+createtime : 1453723635 ;
+msgtype : event ;
+latitude : 32.735123 ;
+longitude : 114.978706 ;
+precision : 90.000000 ;
+location_x : 32.735123 ;
+location_y : 114.978706 ;
+
+2016-01-25 20:05:10 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 20:05:10 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 20:05:13 trace :
+------------
+Array:
+from : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+to : gh_c035d5b82e08 ;
+time : 1453723638 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+createtime : 1453723638 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=mc&a=card&do=notice& ;
+menuid : 401289190 ;
+
+2016-01-25 20:05:13 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 20:05:13 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 20:05:19 trace :
+------------
+Array:
+from : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+to : gh_c035d5b82e08 ;
+time : 1453723644 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjuXfeXhTEf2b1g4K7ILd6Vg ;
+createtime : 1453723644 ;
+msgtype : event ;
+latitude : 32.735226 ;
+longitude : 114.978691 ;
+precision : 110.000000 ;
+location_x : 32.735226 ;
+location_y : 114.978691 ;
+
+2016-01-25 20:05:19 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-25 20:05:19 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-25 20:14:53 trace :
+------------
+Array:
+from : oOhiYjq2D5swf2EarGABErkBgmmU ;
+to : gh_c035d5b82e08 ;
+time : 1453724218 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjq2D5swf2EarGABErkBgmmU ;
+createtime : 1453724218 ;
+msgtype : event ;
+msgid : 401365619 ;
+status : success ;
+
+2016-01-25 20:14:53 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 20:14:53 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjq2D5swf2EarGABErkBgmmU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 21:12:55 trace :
+------------
+Array:
+from : oOhiYjlxf8HKQM7msZFffWUaZZ_0 ;
+to : gh_c035d5b82e08 ;
+time : 1453727700 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjlxf8HKQM7msZFffWUaZZ_0 ;
+createtime : 1453727700 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 21:12:55 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 21:12:55 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjlxf8HKQM7msZFffWUaZZ_0 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-25 21:13:24 trace :
+------------
+Array:
+from : oOhiYjlxf8HKQM7msZFffWUaZZ_0 ;
+to : gh_c035d5b82e08 ;
+time : 1453727729 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjlxf8HKQM7msZFffWUaZZ_0 ;
+createtime : 1453727729 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401318213 ;
+
+2016-01-25 21:13:24 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 48 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-25 21:13:24 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjlxf8HKQM7msZFffWUaZZ_0 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

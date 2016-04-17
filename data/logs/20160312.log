@@ -1,0 +1,2244 @@
+2016-03-12 04:34:51 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1457728504 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1457728504 ;
+msgtype : event ;
+msgid : 401841565 ;
+status : success ;
+
+2016-03-12 04:34:51 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 04:34:51 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 07:08:39 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1457737732 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1457737732 ;
+msgtype : event ;
+latitude : 34.514370 ;
+longitude : 112.165131 ;
+precision : 150.000000 ;
+location_x : 34.514370 ;
+location_y : 112.165131 ;
+
+2016-03-12 07:08:39 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 07:08:39 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 07:11:15 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1457737888 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1457737888 ;
+msgtype : event ;
+latitude : 34.514374 ;
+longitude : 112.165131 ;
+precision : 150.000000 ;
+location_x : 34.514374 ;
+location_y : 112.165131 ;
+
+2016-03-12 07:11:15 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 07:11:15 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 07:11:21 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1457737894 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1457737894 ;
+msgtype : event ;
+latitude : 34.514374 ;
+longitude : 112.165131 ;
+precision : 150.000000 ;
+location_x : 34.514374 ;
+location_y : 112.165131 ;
+
+2016-03-12 07:11:21 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 07:11:21 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 07:11:23 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1457737896 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1457737896 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/app/index.php?i=3&c=entry&eid=33 ;
+menuid : 401473429 ;
+
+2016-03-12 07:11:23 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 07:11:23 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 07:22:59 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1457738592 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1457738592 ;
+msgtype : event ;
+latitude : 34.514370 ;
+longitude : 112.165131 ;
+precision : 150.000000 ;
+location_x : 34.514370 ;
+location_y : 112.165131 ;
+
+2016-03-12 07:22:59 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 07:22:59 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 07:42:11 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1457739744 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1457739744 ;
+msgtype : event ;
+latitude : 34.514370 ;
+longitude : 112.165131 ;
+precision : 150.000000 ;
+location_x : 34.514370 ;
+location_y : 112.165131 ;
+
+2016-03-12 07:42:11 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 07:42:11 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 10:21:20 trace :
+------------
+Array:
+from : oOhiYjrEbI4JDsjqML3chgPP0VAk ;
+to : gh_c035d5b82e08 ;
+time : 1457749294 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrEbI4JDsjqML3chgPP0VAk ;
+createtime : 1457749294 ;
+msgtype : event ;
+eventkey : http://www.feedtrade.com.cn/ ;
+menuid : 401473429 ;
+
+2016-03-12 10:21:20 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 10:21:20 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 10:21:54 trace :
+------------
+Array:
+from : oOhiYjrEbI4JDsjqML3chgPP0VAk ;
+to : gh_c035d5b82e08 ;
+time : 1457749327 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrEbI4JDsjqML3chgPP0VAk ;
+createtime : 1457749327 ;
+msgtype : event ;
+eventkey : http://www.feedtrade.com.cn/ ;
+menuid : 401473429 ;
+
+2016-03-12 10:21:54 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 10:21:54 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 10:22:18 trace :
+------------
+Array:
+from : oOhiYjrEbI4JDsjqML3chgPP0VAk ;
+to : gh_c035d5b82e08 ;
+time : 1457749351 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrEbI4JDsjqML3chgPP0VAk ;
+createtime : 1457749351 ;
+msgtype : event ;
+eventkey : http://www.hasxmy.com ;
+menuid : 401473429 ;
+
+2016-03-12 10:22:18 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 10:22:18 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 11:56:32 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1457755005 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1457755005 ;
+msgtype : event ;
+msgid : 401844743 ;
+status : success ;
+
+2016-03-12 11:56:32 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 11:56:32 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 11:56:44 trace :
+------------
+Array:
+from : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+to : gh_c035d5b82e08 ;
+time : 1457755017 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjoKu_9B4QXdcBXCn02WtTws ;
+createtime : 1457755017 ;
+msgtype : event ;
+latitude : 34.675495 ;
+longitude : 112.435654 ;
+precision : 150.000000 ;
+location_x : 34.675495 ;
+location_y : 112.435654 ;
+
+2016-03-12 11:56:44 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 11:56:44 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 14:05:11 trace :
+------------
+Array:
+from : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+to : gh_c035d5b82e08 ;
+time : 1457762725 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+createtime : 1457762725 ;
+msgtype : event ;
+latitude : 34.973564 ;
+longitude : 113.687469 ;
+precision : 150.000000 ;
+location_x : 34.973564 ;
+location_y : 113.687469 ;
+
+2016-03-12 14:05:11 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 14:05:11 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 14:05:11 trace :
+------------
+Array:
+from : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+to : gh_c035d5b82e08 ;
+time : 1457762725 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+createtime : 1457762725 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/app/index.php?i=3&c=entry&eid=33 ;
+menuid : 401473429 ;
+
+2016-03-12 14:05:11 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 14:05:11 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 14:05:41 trace :
+------------
+Array:
+from : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+to : gh_c035d5b82e08 ;
+time : 1457762755 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+createtime : 1457762755 ;
+msgtype : event ;
+latitude : 34.973564 ;
+longitude : 113.687469 ;
+precision : 150.000000 ;
+location_x : 34.973564 ;
+location_y : 113.687469 ;
+
+2016-03-12 14:05:41 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 14:05:41 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 15:44:04 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457768658 ;
+type : event ;
+event : subscribe ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457768658 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-12 15:44:04 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 15:44:04 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 15:44:09 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457768663 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457768663 ;
+msgtype : event ;
+latitude : 35.322563 ;
+longitude : 113.867500 ;
+precision : 2337.000000 ;
+location_x : 35.322563 ;
+location_y : 113.867500 ;
+
+2016-03-12 15:44:09 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 15:44:09 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 16:01:29 trace :
+------------
+Array:
+from : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+to : gh_c035d5b82e08 ;
+time : 1457769703 ;
+type : event ;
+event : subscribe ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+createtime : 1457769703 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-12 16:01:29 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 16:01:29 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 16:01:43 trace :
+------------
+Array:
+from : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+to : gh_c035d5b82e08 ;
+time : 1457769718 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+createtime : 1457769718 ;
+msgtype : event ;
+latitude : 35.196659 ;
+longitude : 113.144318 ;
+precision : 150.000000 ;
+location_x : 35.196659 ;
+location_y : 113.144318 ;
+
+2016-03-12 16:01:43 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 16:01:43 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 16:01:49 trace :
+------------
+Array:
+from : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+to : gh_c035d5b82e08 ;
+time : 1457769723 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+createtime : 1457769723 ;
+msgtype : event ;
+latitude : 35.196659 ;
+longitude : 113.144318 ;
+precision : 110.000000 ;
+location_x : 35.196659 ;
+location_y : 113.144318 ;
+
+2016-03-12 16:01:49 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 16:01:49 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 16:02:59 trace :
+------------
+Array:
+from : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+to : gh_c035d5b82e08 ;
+time : 1457769793 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+createtime : 1457769793 ;
+msgtype : event ;
+latitude : 35.196659 ;
+longitude : 113.144318 ;
+precision : 150.000000 ;
+location_x : 35.196659 ;
+location_y : 113.144318 ;
+
+2016-03-12 16:02:59 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 16:02:59 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 16:03:06 trace :
+------------
+Array:
+from : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+to : gh_c035d5b82e08 ;
+time : 1457769800 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+createtime : 1457769800 ;
+msgtype : event ;
+latitude : 35.196659 ;
+longitude : 113.144318 ;
+precision : 150.000000 ;
+location_x : 35.196659 ;
+location_y : 113.144318 ;
+
+2016-03-12 16:03:06 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 16:03:06 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 16:03:11 trace :
+------------
+Array:
+from : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+to : gh_c035d5b82e08 ;
+time : 1457769805 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+createtime : 1457769805 ;
+msgtype : event ;
+latitude : 35.196659 ;
+longitude : 113.144318 ;
+precision : 150.000000 ;
+location_x : 35.196659 ;
+location_y : 113.144318 ;
+
+2016-03-12 16:03:11 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 16:03:11 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 16:03:17 trace :
+------------
+Array:
+from : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+to : gh_c035d5b82e08 ;
+time : 1457769811 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+createtime : 1457769811 ;
+msgtype : event ;
+latitude : 35.196659 ;
+longitude : 113.144318 ;
+precision : 150.000000 ;
+location_x : 35.196659 ;
+location_y : 113.144318 ;
+
+2016-03-12 16:03:17 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 16:03:17 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 16:04:19 trace :
+------------
+Array:
+from : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+to : gh_c035d5b82e08 ;
+time : 1457769873 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkwebG67qTP0jFR_Pivnh-I ;
+createtime : 1457769873 ;
+msgtype : event ;
+latitude : 35.196659 ;
+longitude : 113.144318 ;
+precision : 150.000000 ;
+location_x : 35.196659 ;
+location_y : 113.144318 ;
+
+2016-03-12 16:04:19 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 16:04:19 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 18:28:49 trace :
+------------
+Array:
+from : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+to : gh_c035d5b82e08 ;
+time : 1457778543 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+createtime : 1457778543 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/app/index.php?i=3&c=entry&eid=33 ;
+menuid : 401473429 ;
+
+2016-03-12 18:28:49 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 18:28:49 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 18:41:17 trace :
+------------
+Array:
+from : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+to : gh_c035d5b82e08 ;
+time : 1457779291 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+createtime : 1457779291 ;
+msgtype : event ;
+latitude : 34.819962 ;
+longitude : 113.685478 ;
+precision : 150.000000 ;
+location_x : 34.819962 ;
+location_y : 113.685478 ;
+
+2016-03-12 18:41:17 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 18:41:17 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 18:41:22 trace :
+------------
+Array:
+from : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+to : gh_c035d5b82e08 ;
+time : 1457779296 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+createtime : 1457779296 ;
+msgtype : event ;
+latitude : 34.819962 ;
+longitude : 113.685478 ;
+precision : 150.000000 ;
+location_x : 34.819962 ;
+location_y : 113.685478 ;
+
+2016-03-12 18:41:22 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 18:41:22 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 18:41:30 trace :
+------------
+Array:
+from : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+to : gh_c035d5b82e08 ;
+time : 1457779304 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+createtime : 1457779304 ;
+msgtype : event ;
+latitude : 34.819962 ;
+longitude : 113.685478 ;
+precision : 150.000000 ;
+location_x : 34.819962 ;
+location_y : 113.685478 ;
+
+2016-03-12 18:41:30 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 18:41:30 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 18:41:42 trace :
+------------
+Array:
+from : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+to : gh_c035d5b82e08 ;
+time : 1457779316 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+createtime : 1457779316 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/app/index.php?i=3&c=entry&eid=33 ;
+menuid : 401473429 ;
+
+2016-03-12 18:41:42 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 18:41:42 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 18:41:43 trace :
+------------
+Array:
+from : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+to : gh_c035d5b82e08 ;
+time : 1457779317 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+createtime : 1457779317 ;
+msgtype : event ;
+latitude : 34.819962 ;
+longitude : 113.685478 ;
+precision : 150.000000 ;
+location_x : 34.819962 ;
+location_y : 113.685478 ;
+
+2016-03-12 18:41:43 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 18:41:43 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 18:41:46 trace :
+------------
+Array:
+from : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+to : gh_c035d5b82e08 ;
+time : 1457779320 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+createtime : 1457779320 ;
+msgtype : event ;
+latitude : 34.819962 ;
+longitude : 113.685478 ;
+precision : 150.000000 ;
+location_x : 34.819962 ;
+location_y : 113.685478 ;
+
+2016-03-12 18:41:46 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 18:41:46 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:15:16 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781331 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781331 ;
+msgtype : event ;
+latitude : 40.185307 ;
+longitude : 117.715820 ;
+precision : 50.000000 ;
+location_x : 40.185307 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:15:16 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:15:16 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:15:18 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781332 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781332 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/app/index.php?i=3&c=entry&eid=33 ;
+menuid : 401473429 ;
+
+2016-03-12 19:15:18 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:15:18 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 19:15:21 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781336 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781336 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:15:21 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:15:21 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:15:27 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781342 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781342 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:15:27 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:15:27 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:15:33 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781347 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781347 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:15:33 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:15:33 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:15:38 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781353 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781353 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:15:38 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:15:38 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:15:44 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781358 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781358 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:15:44 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:15:44 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:15:49 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781364 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781364 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:15:49 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:15:49 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:15:55 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781370 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781370 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:15:55 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:15:55 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:16:01 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781375 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781375 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:16:01 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:16:01 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:16:02 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781377 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781377 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/app/index.php?i=3&c=entry&eid=33 ;
+menuid : 401473429 ;
+
+2016-03-12 19:16:02 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:16:02 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 19:16:07 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781381 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781381 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:16:07 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:16:07 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:16:12 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781387 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781387 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:16:12 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:16:12 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:16:18 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781392 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781392 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:16:18 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:16:18 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:16:24 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781398 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781398 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:16:24 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:16:24 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:16:30 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781404 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781404 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:16:30 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:16:30 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:16:35 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781410 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781410 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:16:35 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:16:35 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:16:41 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457781415 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457781415 ;
+msgtype : event ;
+latitude : 40.185280 ;
+longitude : 117.715820 ;
+precision : 10.000000 ;
+location_x : 40.185280 ;
+location_y : 117.715820 ;
+
+2016-03-12 19:16:41 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:16:41 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:20:40 trace :
+------------
+Array:
+from : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+to : gh_c035d5b82e08 ;
+time : 1457781654 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr1fnx1Yz4pZ6PdVHNm-gns ;
+createtime : 1457781654 ;
+msgtype : event ;
+msgid : 401849311 ;
+status : success ;
+
+2016-03-12 19:20:40 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:20:40 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 19:35:08 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457782522 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457782522 ;
+msgtype : event ;
+latitude : 40.185276 ;
+longitude : 117.715683 ;
+precision : 30.000000 ;
+location_x : 40.185276 ;
+location_y : 117.715683 ;
+
+2016-03-12 19:35:08 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:35:08 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:35:12 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457782527 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457782527 ;
+msgtype : event ;
+latitude : 40.185265 ;
+longitude : 117.715843 ;
+precision : 5.000000 ;
+location_x : 40.185265 ;
+location_y : 117.715843 ;
+
+2016-03-12 19:35:12 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:35:12 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:35:18 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457782533 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457782533 ;
+msgtype : event ;
+latitude : 40.185265 ;
+longitude : 117.715843 ;
+precision : 5.000000 ;
+location_x : 40.185265 ;
+location_y : 117.715843 ;
+
+2016-03-12 19:35:19 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:35:19 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:35:24 trace :
+------------
+Array:
+from : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+to : gh_c035d5b82e08 ;
+time : 1457782538 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrLw8ADPXIcLpoCaLDj--5I ;
+createtime : 1457782538 ;
+msgtype : event ;
+latitude : 40.185265 ;
+longitude : 117.715843 ;
+precision : 5.000000 ;
+location_x : 40.185265 ;
+location_y : 117.715843 ;
+
+2016-03-12 19:35:24 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:35:24 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:44:16 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783070 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783070 ;
+msgtype : event ;
+latitude : 35.322563 ;
+longitude : 113.867500 ;
+precision : 2337.000000 ;
+location_x : 35.322563 ;
+location_y : 113.867500 ;
+
+2016-03-12 19:44:16 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:44:16 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:44:22 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783076 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783076 ;
+msgtype : event ;
+latitude : 35.322563 ;
+longitude : 113.867500 ;
+precision : 2337.000000 ;
+location_x : 35.322563 ;
+location_y : 113.867500 ;
+
+2016-03-12 19:44:22 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:44:22 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:44:24 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783078 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783078 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/app/index.php?i=3&c=entry&eid=33 ;
+menuid : 401473429 ;
+
+2016-03-12 19:44:24 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:44:24 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 19:44:28 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783083 ;
+type : event ;
+event : TEMPLATESENDJOBFINISH ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783083 ;
+msgtype : event ;
+msgid : 401849495 ;
+status : success ;
+
+2016-03-12 19:44:28 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:44:28 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 19:44:49 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783103 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783103 ;
+msgtype : event ;
+latitude : 35.322563 ;
+longitude : 113.867500 ;
+precision : 2337.000000 ;
+location_x : 35.322563 ;
+location_y : 113.867500 ;
+
+2016-03-12 19:44:49 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:44:49 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:44:55 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783110 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783110 ;
+msgtype : event ;
+latitude : 35.322563 ;
+longitude : 113.867500 ;
+precision : 2337.000000 ;
+location_x : 35.322563 ;
+location_y : 113.867500 ;
+
+2016-03-12 19:44:55 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:44:55 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:45:04 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783118 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783118 ;
+msgtype : event ;
+latitude : 35.322563 ;
+longitude : 113.867500 ;
+precision : 2337.000000 ;
+location_x : 35.322563 ;
+location_y : 113.867500 ;
+
+2016-03-12 19:45:04 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:45:04 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:45:07 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783122 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783122 ;
+msgtype : event ;
+latitude : 35.321293 ;
+longitude : 113.869019 ;
+precision : 1080.000000 ;
+location_x : 35.321293 ;
+location_y : 113.869019 ;
+
+2016-03-12 19:45:07 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:45:07 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:45:13 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783128 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783128 ;
+msgtype : event ;
+latitude : 35.321293 ;
+longitude : 113.869019 ;
+precision : 1080.000000 ;
+location_x : 35.321293 ;
+location_y : 113.869019 ;
+
+2016-03-12 19:45:13 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:45:13 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:45:18 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783133 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783133 ;
+msgtype : event ;
+latitude : 35.321293 ;
+longitude : 113.869019 ;
+precision : 1080.000000 ;
+location_x : 35.321293 ;
+location_y : 113.869019 ;
+
+2016-03-12 19:45:18 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:45:18 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:45:21 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783135 ;
+type : text ;
+event :  ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783135 ;
+msgtype : text ;
+content : 啊？ ;
+msgid : 6261130889887202458 ;
+redirection :  ;
+source :  ;
+
+2016-03-12 19:45:21 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:45:21 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 19:45:23 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783138 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783138 ;
+msgtype : event ;
+latitude : 35.321293 ;
+longitude : 113.869019 ;
+precision : 1080.000000 ;
+location_x : 35.321293 ;
+location_y : 113.869019 ;
+
+2016-03-12 19:45:23 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:45:23 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:45:29 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783144 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783144 ;
+msgtype : event ;
+latitude : 35.321293 ;
+longitude : 113.869019 ;
+precision : 1080.000000 ;
+location_x : 35.321293 ;
+location_y : 113.869019 ;
+
+2016-03-12 19:45:29 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:45:29 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 19:45:35 trace :
+------------
+Array:
+from : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+to : gh_c035d5b82e08 ;
+time : 1457783150 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjsfi9Yj23SAIy2N-1bbbOCU ;
+createtime : 1457783150 ;
+msgtype : event ;
+latitude : 35.321293 ;
+longitude : 113.869019 ;
+precision : 2405.000000 ;
+location_x : 35.321293 ;
+location_y : 113.869019 ;
+
+2016-03-12 19:45:35 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 19:45:35 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 21:20:43 trace :
+------------
+Array:
+from : oOhiYjrEbI4JDsjqML3chgPP0VAk ;
+to : gh_c035d5b82e08 ;
+time : 1457788857 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrEbI4JDsjqML3chgPP0VAk ;
+createtime : 1457788857 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/app/index.php?i=3&c=entry&eid=33 ;
+menuid : 401473429 ;
+
+2016-03-12 21:20:43 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 21:20:43 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 23:09:35 trace :
+------------
+Array:
+from : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+to : gh_c035d5b82e08 ;
+time : 1457795389 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+createtime : 1457795389 ;
+msgtype : event ;
+latitude : 34.608242 ;
+longitude : 112.409889 ;
+precision : 150.000000 ;
+location_x : 34.608242 ;
+location_y : 112.409889 ;
+
+2016-03-12 23:09:35 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 23:09:35 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 23:09:37 trace :
+------------
+Array:
+from : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+to : gh_c035d5b82e08 ;
+time : 1457795392 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+createtime : 1457795392 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/app/index.php?i=3&c=entry&eid=33 ;
+menuid : 401473429 ;
+
+2016-03-12 23:09:37 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 23:09:37 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 23:10:14 trace :
+------------
+Array:
+from : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+to : gh_c035d5b82e08 ;
+time : 1457795428 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+createtime : 1457795428 ;
+msgtype : event ;
+latitude : 34.608463 ;
+longitude : 112.409721 ;
+precision : 150.000000 ;
+location_x : 34.608463 ;
+location_y : 112.409721 ;
+
+2016-03-12 23:10:14 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 23:10:14 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-12 23:32:34 trace :
+------------
+Array:
+from : oOhiYjr_djGd2QdGpWfLNSPeSkgk ;
+to : gh_c035d5b82e08 ;
+time : 1457796768 ;
+type : event ;
+event : subscribe ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr_djGd2QdGpWfLNSPeSkgk ;
+createtime : 1457796768 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-12 23:32:34 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 23:32:34 response :
+------------
+Array:
+params : Array ;
+
+2016-03-12 23:48:22 trace :
+------------
+Array:
+from : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+to : gh_c035d5b82e08 ;
+time : 1457797717 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+createtime : 1457797717 ;
+msgtype : event ;
+latitude : 34.608330 ;
+longitude : 112.409889 ;
+precision : 150.000000 ;
+location_x : 34.608330 ;
+location_y : 112.409889 ;
+
+2016-03-12 23:48:22 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-12 23:48:22 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+

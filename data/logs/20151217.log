@@ -1,0 +1,185 @@
+2015-12-17 10:25:13 trace :
+------------
+Array:
+from : oOhiYjrSWS2YdJtzBAPr2k_MGrGA ;
+to : gh_c035d5b82e08 ;
+time : 1450319111 ;
+type : text ;
+event :  ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrSWS2YdJtzBAPr2k_MGrGA ;
+createtime : 1450319111 ;
+msgtype : text ;
+content : 北京天奇 ;
+msgid : 6229073150909704648 ;
+redirection :  ;
+source :  ;
+
+2015-12-17 10:25:13 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-17 10:25:13 response :
+------------
+Array:
+params : Array ;
+
+2015-12-17 12:46:43 trace :
+------------
+Array:
+from : oOhiYjo5RrdLUuOfhjQ9VH-QYjIU ;
+to : gh_c035d5b82e08 ;
+time : 1450327602 ;
+type : event ;
+event : subscribe ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjo5RrdLUuOfhjQ9VH-QYjIU ;
+createtime : 1450327602 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-17 12:46:43 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-17 12:46:43 response :
+------------
+Array:
+params : Array ;
+
+2015-12-17 17:40:15 trace :
+------------
+Array:
+from : oOhiYjnn1y3PiOwA6VJDRdKhenCY ;
+to : gh_c035d5b82e08 ;
+time : 1450345213 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjnn1y3PiOwA6VJDRdKhenCY ;
+createtime : 1450345213 ;
+msgtype : event ;
+eventkey : http://fx.wbok.cn/s/apply?tercode=279083 ;
+
+2015-12-17 17:40:15 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-17 17:40:15 response :
+------------
+Array:
+params : Array ;
+
+2015-12-17 17:40:30 trace :
+------------
+Array:
+from : oOhiYjnn1y3PiOwA6VJDRdKhenCY ;
+to : gh_c035d5b82e08 ;
+time : 1450345227 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjnn1y3PiOwA6VJDRdKhenCY ;
+createtime : 1450345227 ;
+msgtype : event ;
+eventkey : http://fx.wbok.cn/promote/mypromoter?tcode=279083&tercode=279083 ;
+
+2015-12-17 17:40:30 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-17 17:40:30 response :
+------------
+Array:
+params : Array ;
+
+2015-12-17 17:40:56 trace :
+------------
+Array:
+from : oOhiYjnn1y3PiOwA6VJDRdKhenCY ;
+to : gh_c035d5b82e08 ;
+time : 1450345254 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjnn1y3PiOwA6VJDRdKhenCY ;
+createtime : 1450345254 ;
+msgtype : event ;
+eventkey : http://fx.wbok.cn/index/279083?tercode=279083 ;
+
+2015-12-17 17:40:56 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-17 17:40:56 response :
+------------
+Array:
+params : Array ;
+
+2015-12-17 19:33:38 trace :
+------------
+Array:
+from : oOhiYjmLjmlu5ivoNZkjxxzut2VI ;
+to : gh_c035d5b82e08 ;
+time : 1450352015 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjmLjmlu5ivoNZkjxxzut2VI ;
+createtime : 1450352015 ;
+msgtype : event ;
+eventkey : http://fx.wbok.cn/index/279083?tercode=279083 ;
+
+2015-12-17 19:33:38 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-17 19:33:38 response :
+------------
+Array:
+params : Array ;
+
+2015-12-17 22:26:24 trace :
+------------
+Array:
+from : oOhiYjroTaYpNIfGiw5gejZbE2Fc ;
+to : gh_c035d5b82e08 ;
+time : 1450362381 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjroTaYpNIfGiw5gejZbE2Fc ;
+createtime : 1450362381 ;
+msgtype : event ;
+eventkey : http://fx.wbok.cn/s/apply?tercode=279083 ;
+
+2015-12-17 22:26:24 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-17 22:26:24 response :
+------------
+Array:
+params : Array ;
+

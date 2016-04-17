@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>{php if(isset($title)) $_W['page']['title'] = $title}{if !empty($_W['page']['title'])}{$_W['page']['title']} - {/if}{if empty($_W['page']['copyright']['sitename'])}{if IMS_FAMILY != 'x'}微城市 - 公众营销分销平台/if}{else}{$_W['page']['copyright']['sitename']}{/if}</title>
+	<meta name="keywords" content="{if empty($_W['page']['copyright']['keywords'])}{if IMS_FAMILY != 'x'}微城市 - 公众营销分销平台{/if}{else}{$_W['page']['copyright']['keywords']}{/if}" />
+	<meta name="description" content="{if empty($_W['page']['copyright']['description'])}{if IMS_FAMILY != 'x'}微城市 - 公众营销分销平台，产品营销分销推广及企业品牌宣传和企业活动宣传。{/if}{else}{$_W['page']['copyright']['description']}{/if}" />
+<link rel="stylesheet" href="static/ui/j.ui.css" type="text/css" />
+<link rel="stylesheet" type="text/css" href="static/css/public.css">
+<link rel="stylesheet" type="text/css" href="static/css/style.css">
+<link rel="stylesheet" type="text/css" href="static/css/home.css">
+<script src="./resource/js/require.js"></script>
+<script src="./resource/js/app/config.js"></script>
+<script type="text/javascript"  src="static/script/kt.j.js"></script>
+<script type="text/javascript"  src="static/script/kt.js"></script>
+<script type="text/javascript"  src="static/ui/j.ui.js"></script>
+<script type="text/javascript" src="static/script/public.js"></script>
+<script type="text/javascript" src="static/script/jquery.nav.js"></script>
+</head>
+<body>
+<div class="header">
+  <div class="logo"><a href="index.php" title="微城市 - 公众营销分销平台"><img src="static/ad/logo.png"></a></div>
+  <div class="top_baozhang" style="background:none; text-align:right;"><a href="{url 'article/news-show'}" title="产品中心"><img src="static/images/message_full_bg.png"></a></div>
+</div>
+  <div class="wrap_head">
+    <div class="nav">
+      <dl class="lavaLampNoImage">
+        <dt>让设计更简单</dt>
+		<dd><a href="index.php"  hidefocus="true"><span>首页</span></a></dd>
+		<dd><a href="index.php#A"><span>服务项目</span></a></dd>
+		<dd><a href="{url 'article/notice-show'}"><span>最新公告</span></a></dd>
+		<dd><a href="{url 'article/news-show'}"><span>产品中心</span></a></dd>
+		<dd><a href="index.php#B"><span>特别推荐</span></a></dd>
+		<dd><a href="index.php#C"><span>合作单位</span></a></dd>
+		<dd><a href="index.php#D"><span>联系我们</span></a></dd>
+		<dd><a href="index.php#E"><span>会员服务</span></a></dd>
+		<dd><a href="{url 'user/register'}"><span>注册会员</span></a></dd>
+      </dl>
+    </div>
+<!---顶部内容结束--> 
+<script type="text/javascript">
+	$('.main_nav_box .cont dl').mouseover(function(){
+		$(this).find('dd'). css('background-position-y','0px');
+	}).mouseout(function(){
+		$(this).find('dd'). css('background-position-y','-50px');
+	});
+
+</script>
+<!---头部内容结束-->
+<div class="pagewd empower">
+<div class="empowerLt lt">
+    <ul>
+        <li><a  class="{if !$cateid}current{else}{/if}"  href="{php echo url('article/notice-show/list');}">所有公告</a></li>
+		{loop $categroys $categroy}
+        <li><a   href="{php echo url('article/notice-show/list', array('cateid' => $categroy['id']));}" class="{if $cateid == $categroy['id']}current{else}{/if}">{$categroy['title']}</a></li>
+        {/loop}
+    </ul>
+</div>
+{if $do == 'list'}
+<div class="empowerCont rt">
+	<h1>{if !$cateid}所有公告{else}{$categroys[$cateid]['title']}{/if}</h1>
+	<ul class="gonggaoList">{loop $data $da}
+						<li><a target='_blank' title="{$da['title']}" href="{php echo url('article/notice-show/detail', array('id' => $da['id']));}">{$da['title']}</a><span class="rt graycl">{php echo date('Y-m-d', $da['createtime']);}</span>
+			</li>
+						{/loop}</ul>
+		<div class="cl"></div>
+</div>
+	{/if}
+{if $do == 'detail'}
+<div class="empowerCont rt">
+		<div class="gonggaoBox">
+			<h1>{$notice['title']}</h1>
+			<div class="hd">
+				<div class="lt"><i class="fontcl1 lt">{php echo date('Y-m-d H:i', $notice['createtime']);}</i>
+			</div>
+				<span class="rt graycl">已有<font class="fontcl2">{$notice['click']}</font>人浏览</span>
+		 </div>
+		</div>
+		
+		<div class="articleBox" id="detail_content">
+{$notice['content']}
+		</div>
+	</div>
+{/if}
+<div class="cl"></div>
+</div>
+<!---底部内容开始--> 
+<div class="footer"><div id="F">
+	</div>
+	<div class="pagewe">
+		<div class="footer_left lt">
+			<div class="logo_weibo">
+				<div class="footer_logo lt"><a href="#" title="微城市"><img src="static/ad/footerlogo.png"></a></div>
+				<div class="cl"></div>
+			</div>
+		</div>
+		<div class="footer_mid lt ">
+			<p>服务时间：每周一至周五，早上9:30分到晚上21:30分</p>
+			<p>All Rights Reserved ICP备案：苏ICP备15015111号</p>
+		</div>
+		<div class="footer_weixin rt">
+			<div class="clearfix"><img src="static/ad/foot-logo.png"></div>
+		</div>
+	</div>
+	<div class="cl"></div>
+</div>
+<!---底部内容结束--> 
+<!---右侧客服内容开始-->
+<div class="rtService">
+	<div class="open_rtser"></div>
+	<div class="se_main">
+		<div class="close_se"> <a href="javascript:void(0);" title="点击关闭"></a> </div>
+		<a href="http://wpa.qq.com/msgrd?v=3&uin=3200913212&site=qq&menu=yes" class="im_qq qq_a" title="在线QQ客服" onclick="_hmt.push(['_trackEvent', 'qqEvent', 'Consultation', 'qqZixun']);">
+		<div class="qq-container"></div>
+		<div class="qq_hover">        
+         <img class="img_qq" src="static/images/qq.png"> </div>
+		<span> QQ在线咨询</span></a>
+		<div class="ser_tel">
+			<p>售前咨询客服</p>
+			<p><b class="fontcl2">3200913212</b></p>
+			<p>售后服务热线</p>
+			<p><b class="fontcl2">3200-913-212</b></p>
+		</div>
+		<div class="ser_side">
+			<div class="weixin_cont lt">
+				<div class="weixin_show" >
+					<img class="weixin_ma" src="static/ad/weixin.jpg">
+					<p>微信扫一扫</p>
+					<p>我为您服务</p>
+					<div class="weixin_sanjiao"></div>
+					<div class="weixin_sanjiao_border"></div>
+				</div>
+			</div>
+			<div class="go_top rt"> <a href="javascript:;" title="返回顶部"></a> </div>
+			<div class="cl"></div>
+		</div>
+	</div>
+</div>
+<!---右侧客服内容结束-->
+<div class="Bottom floatRight">
+	<div class="BottomBox">
+    	<div class="BottomCon">
+            <div class="contact_us on">
+            	<a href="http://wpa.qq.com/msgrd?v=3&uin=3200913212&site=qq&menu=yes" target="_blank">在线客服</a>
+                <span>3200-913-212</span>
+            </div>
+            <div class="some_tips on">温馨提示：我们所有的作品都有演示图片，保证图片与最终效果一样，可以放心购买。特别提醒：请认准微城市唯一出品，请勿上当受骗，以免损失！</div>
+        </div>
+    </div>
+    <div class="closed"><span></span></div>
+    <i class="Icon"><img src="static/images/icon.gif" /></i>
+</div>
+<script src="static/script/all.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(".htit a").mouseover(function(){
+		 var index = $(this).index();
+		 $(".htit a").each(function(a){
+			 if(a == index){
+				 $(this).addClass('on');
+				 $(".newslist").eq(a).show();
+			 }else{
+				 $(this).removeClass('on');
+				  $(".newslist").eq(a).hide();
+			 }
+		 });
+	});
+$(".htit a").eq(0).mouseover();
+</script> 
+</body>
+</html>

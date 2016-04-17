@@ -1,0 +1,436 @@
+2016-01-09 07:23:11 trace :
+------------
+Array:
+from : oOhiYjr3AoxmVsv-Q2g2-2_juk9U ;
+to : gh_c035d5b82e08 ;
+time : 1452295476 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr3AoxmVsv-Q2g2-2_juk9U ;
+createtime : 1452295476 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401191658 ;
+
+2016-01-09 07:23:11 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 07:23:11 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjr3AoxmVsv-Q2g2-2_juk9U ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-09 09:41:14 trace :
+------------
+Array:
+from : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+to : gh_c035d5b82e08 ;
+time : 1452303759 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+createtime : 1452303759 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=home&t=3 ;
+menuid : 401191658 ;
+
+2016-01-09 09:41:14 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 09:41:14 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-09 09:57:56 trace :
+------------
+Array:
+from : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+to : gh_c035d5b82e08 ;
+time : 1452304761 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+createtime : 1452304761 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401191658 ;
+
+2016-01-09 09:57:56 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 09:57:56 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjpXm0bus8iVSWw0TAxaIJB8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-09 09:58:03 trace :
+------------
+Array:
+from : oOhiYjmz8h5pMX2jccpTJ3Io0BLs ;
+to : gh_c035d5b82e08 ;
+time : 1452304768 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjmz8h5pMX2jccpTJ3Io0BLs ;
+createtime : 1452304768 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401191658 ;
+
+2016-01-09 09:58:03 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 09:58:03 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjmz8h5pMX2jccpTJ3Io0BLs ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-09 09:59:24 trace :
+------------
+Array:
+from : oOhiYjmz8h5pMX2jccpTJ3Io0BLs ;
+to : gh_c035d5b82e08 ;
+time : 1452304849 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjmz8h5pMX2jccpTJ3Io0BLs ;
+createtime : 1452304849 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401191658 ;
+
+2016-01-09 09:59:24 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 09:59:24 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjmz8h5pMX2jccpTJ3Io0BLs ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-09 10:57:30 trace :
+------------
+Array:
+from : oOhiYjk48GgLxgCM3jHc0Pk9fy68 ;
+to : gh_c035d5b82e08 ;
+time : 1452308335 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjk48GgLxgCM3jHc0Pk9fy68 ;
+createtime : 1452308335 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401191658 ;
+
+2016-01-09 10:57:30 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 10:57:30 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjk48GgLxgCM3jHc0Pk9fy68 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-09 13:43:44 trace :
+------------
+Array:
+from : oOhiYjr3AoxmVsv-Q2g2-2_juk9U ;
+to : gh_c035d5b82e08 ;
+time : 1452318309 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr3AoxmVsv-Q2g2-2_juk9U ;
+createtime : 1452318309 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401191658 ;
+
+2016-01-09 13:43:44 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 13:43:44 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjr3AoxmVsv-Q2g2-2_juk9U ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-09 15:08:54 trace :
+------------
+Array:
+from : oOhiYjnMWmoluLPSY7ed9Cq8Ykas ;
+to : gh_c035d5b82e08 ;
+time : 1452323419 ;
+type : text ;
+event :  ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjnMWmoluLPSY7ed9Cq8Ykas ;
+createtime : 1452323419 ;
+msgtype : text ;
+content : 天津国慧粮粕报价：
+进口ddgs  天津港1700青岛港1560
+棕榈粕     青岛港1040
+乌克兰大麦   天津港1670
+木薯颗粒    青岛港1000  
+双低菜粕   营口港1940     远期3-4月1980
+联系电话：022—60836956
+          18322302288
+联系人：夏先生
+地址：天津滨海新区新港三号路紫云国际9栋2门1201 ;
+msgid : 6237681588221118543 ;
+redirection :  ;
+source :  ;
+
+2016-01-09 15:08:54 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 15:08:54 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjnMWmoluLPSY7ed9Cq8Ykas ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-09 18:44:00 trace :
+------------
+Array:
+from : oOhiYjr3AoxmVsv-Q2g2-2_juk9U ;
+to : gh_c035d5b82e08 ;
+time : 1452336326 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjr3AoxmVsv-Q2g2-2_juk9U ;
+createtime : 1452336326 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401191658 ;
+
+2016-01-09 18:44:00 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 18:44:00 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjr3AoxmVsv-Q2g2-2_juk9U ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-09 19:58:29 trace :
+------------
+Array:
+from : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+to : gh_c035d5b82e08 ;
+time : 1452340795 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+createtime : 1452340795 ;
+msgtype : event ;
+latitude : 33.444550 ;
+longitude : 114.901978 ;
+precision : 150.000000 ;
+location_x : 33.444550 ;
+location_y : 114.901978 ;
+
+2016-01-09 19:58:29 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-09 19:58:29 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-09 19:58:30 trace :
+------------
+Array:
+from : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+to : gh_c035d5b82e08 ;
+time : 1452340796 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+createtime : 1452340796 ;
+msgtype : event ;
+eventkey : http://www.hasxmy.com ;
+menuid : 401191658 ;
+
+2016-01-09 19:58:30 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 19:58:30 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-01-09 19:58:40 trace :
+------------
+Array:
+from : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+to : gh_c035d5b82e08 ;
+time : 1452340806 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+createtime : 1452340806 ;
+msgtype : event ;
+latitude : 33.444550 ;
+longitude : 114.901978 ;
+precision : 150.000000 ;
+location_x : 33.444550 ;
+location_y : 114.901978 ;
+
+2016-01-09 19:58:40 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-01-09 19:58:40 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-01-09 19:58:44 trace :
+------------
+Array:
+from : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+to : gh_c035d5b82e08 ;
+time : 1452340810 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+createtime : 1452340810 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401191658 ;
+
+2016-01-09 19:58:44 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 27 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-01-09 19:58:44 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjkMMMvPqjdx63bT0YL3UP0E ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

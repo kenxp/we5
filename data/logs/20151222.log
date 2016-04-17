@@ -1,0 +1,621 @@
+2015-12-22 12:42:38 trace :
+------------
+Array:
+from : oOhiYjmlaAwCK36OyheMXxj9kqW0 ;
+to : gh_c035d5b82e08 ;
+time : 1450759354 ;
+type : event ;
+event : CLICK ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjmlaAwCK36OyheMXxj9kqW0 ;
+createtime : 1450759354 ;
+msgtype : event ;
+eventkey : hqtp ;
+
+2015-12-22 12:42:38 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-22 12:42:38 response :
+------------
+Array:
+params : Array ;
+
+2015-12-22 15:03:38 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1450767814 ;
+type : text ;
+event :  ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1450767814 ;
+msgtype : text ;
+content : 北京天气 ;
+msgid : 6231000315620399135 ;
+redirection :  ;
+source :  ;
+
+2015-12-22 15:03:38 params :
+------------
+Array:
+message : Array ;
+module : userapi ;
+rule : 1 ;
+priority : 255 ;
+keyword : Array ;
+
+2015-12-22 15:03:38 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+MsgType : text ;
+Content : 北京今日天气
+今天白天霾，4摄氏度。
+无持续风向，≤3
+今天夜间雾，-5摄氏度。
+无持续风向，≤3
+==================
+【穿衣指数】：棉衣、冬大衣、皮夹克、内着衬衫或羊毛内衣、毛衣、外罩大衣
+
+【感冒指数】：多发期天气较冷，室内外温差较大，较易引起感冒；
+
+【空调指数】：建议开启空调
+
+【污染物扩散条件】：
+
+【洗车指数】：比较适宜洗车后未来2天内没有降水、大风或沙尘天气，比较适宜洗车。注意洗车当日气温不能太低以免结冰。
+
+【运动指数】：不适宜天气较冷，多数人不适宜户外运动；
+
+【紫外线指数】：最弱紫外线最弱
+
+【体感度指数】：偏冷大部分人群外出活动要戴薄手套、薄围巾和帽子。
+ ;
+
+2015-12-22 15:13:43 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:14:00 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:14:05 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:14:11 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:14:17 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:14:22 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:14:28 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:14:34 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:14:40 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:14:45 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:14:50 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:15:11 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:15:12 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:15:18 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 15:15:51 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:15:22 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:15:27 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:15:28 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:20:28 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:20:29 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:20:40 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:20:40 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:20:47 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:20:52 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:20:59 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:02 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:06 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:08 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:14 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:20 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:26 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:31 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:37 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:43 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:47 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:53 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:21:58 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:22:04 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:22:10 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:22:15 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:22:21 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:22:28 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:22:31 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:22:37 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:22:43 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 16:22:50 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 19:18:22 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 20:51:36 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 22:36:31 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 22:36:36 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 22:36:39 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 22:36:43 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 22:36:49 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 22:36:55 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 22:37:00 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 22:37:07 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 22:37:13 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:00:53 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:01:07 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:01 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:01 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:04 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:09 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:15 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:17 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:17 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:21 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:26 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:29 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:32 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:38 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:44 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:50 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:53 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:56 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:05:58 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:06:03 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:06:11 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:06:18 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:06:25 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:06:31 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:06:40 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:06:46 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:06:53 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:06:59 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:07:06 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:07:12 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:07:19 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:07:25 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:07:32 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:07:42 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:07:52 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:07:59 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:08:06 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:08:18 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:08:27 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:08:35 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:08:41 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:08:48 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:08:57 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:09:08 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:09:14 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:09:21 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:09:28 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:09:35 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:09:44 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:10:05 waring :
+------------
+String:
+Request Failed
+
+2015-12-22 23:39:50 waring :
+------------
+String:
+Request Failed
+

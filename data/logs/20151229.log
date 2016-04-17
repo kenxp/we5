@@ -1,0 +1,414 @@
+2015-12-29 17:01:11 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451379728 ;
+type : text ;
+event :  ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451379728 ;
+msgtype : text ;
+content : 北京天气 ;
+msgid : 6233628466238470306 ;
+redirection :  ;
+source :  ;
+
+2015-12-29 17:01:11 params :
+------------
+Array:
+message : Array ;
+module : userapi ;
+rule : 1 ;
+priority : 255 ;
+keyword : Array ;
+
+2015-12-29 17:01:11 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+MsgType : text ;
+Content : 北京今日天气
+今天白天霾，4摄氏度。
+无持续风向，≤3
+今天夜间晴，-4摄氏度。
+无持续风向，≤3
+==================
+【穿衣指数】：棉衣、冬大衣、皮夹克、内着衬衫或羊毛内衣、毛衣、外罩大衣
+
+【感冒指数】：多发期天气较冷，室内外温差较大，较易引起感冒；
+
+【空调指数】：建议开启空调
+
+【污染物扩散条件】：轻度对空气污染物扩散无明显影响
+
+【洗车指数】：比较适宜洗车后未来2天内没有降水、大风或沙尘天气，比较适宜洗车。注意洗车当日气温不能太低以免结冰。
+
+【运动指数】：不适宜天气较冷，多数人不适宜户外运动；
+
+【紫外线指数】：弱紫外线弱
+
+【体感度指数】：偏冷大部分人群外出活动要戴薄手套、薄围巾和帽子。
+ ;
+
+2015-12-29 17:01:18 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451379736 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451379736 ;
+msgtype : event ;
+eventkey : http://120.194.6.165:8080/we4/app/index.php?i=2&c=entry&eid=17 ;
+menuid : 401093941 ;
+
+2015-12-29 17:01:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:01:18 response :
+------------
+
+2015-12-29 17:01:24 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451379742 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451379742 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=2&c=entry&eid=17 ;
+menuid : 401093941 ;
+
+2015-12-29 17:01:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:01:24 response :
+------------
+
+2015-12-29 17:01:27 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451379744 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451379744 ;
+msgtype : event ;
+eventkey : http://120.194.6.165:8080/we4/app/index.php?i=2&c=entry&eid=17 ;
+menuid : 401093941 ;
+
+2015-12-29 17:01:27 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:01:27 response :
+------------
+
+2015-12-29 17:14:55 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451380553 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451380553 ;
+msgtype : event ;
+eventkey : http://120.194.6.165:8080/we4/app/index.php?i=2&c=entry&eid=17 ;
+menuid : 401093941 ;
+
+2015-12-29 17:14:55 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:14:55 response :
+------------
+
+2015-12-29 17:15:03 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451380561 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451380561 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=2&c=entry&eid=17 ;
+menuid : 401093941 ;
+
+2015-12-29 17:15:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:15:03 response :
+------------
+
+2015-12-29 17:15:09 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451380567 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451380567 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=2&c=entry&eid=17 ;
+menuid : 401093941 ;
+
+2015-12-29 17:15:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:15:09 response :
+------------
+
+2015-12-29 17:16:34 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451380651 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451380651 ;
+msgtype : event ;
+eventkey : http://120.194.6.165:8080/we4/app/index.php?i=2&c=entry&eid=17 ;
+menuid : 401093941 ;
+
+2015-12-29 17:16:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:16:34 response :
+------------
+
+2015-12-29 17:16:51 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451380669 ;
+type : text ;
+event :  ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451380669 ;
+msgtype : text ;
+content : 北京天气 ;
+msgid : 6233632507802696022 ;
+redirection :  ;
+source :  ;
+
+2015-12-29 17:16:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:16:51 response :
+------------
+
+2015-12-29 17:16:59 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451380676 ;
+type : text ;
+event :  ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451380676 ;
+msgtype : text ;
+content : 北京天气 ;
+msgid : 6233632537867467097 ;
+redirection :  ;
+source :  ;
+
+2015-12-29 17:16:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:16:59 response :
+------------
+
+2015-12-29 17:18:21 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451380758 ;
+type : text ;
+event :  ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451380758 ;
+msgtype : text ;
+content : 北京天气 ;
+msgid : 6233632890054785380 ;
+redirection :  ;
+source :  ;
+
+2015-12-29 17:18:25 params :
+------------
+Array:
+message : Array ;
+module : userapi ;
+rule : 1 ;
+priority : 255 ;
+keyword : Array ;
+
+2015-12-29 17:18:25 response :
+------------
+Array:
+FromUserName : gh_c035d5b82e08 ;
+ToUserName : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+MsgType : text ;
+Content : 北京今日天气
+今天白天霾，4摄氏度。
+无持续风向，≤3
+今天夜间晴，-4摄氏度。
+无持续风向，≤3
+==================
+【穿衣指数】：棉衣、冬大衣、皮夹克、内着衬衫或羊毛内衣、毛衣、外罩大衣
+
+【感冒指数】：多发期天气较冷，室内外温差较大，较易引起感冒；
+
+【空调指数】：建议开启空调
+
+【污染物扩散条件】：轻度对空气污染物扩散无明显影响
+
+【洗车指数】：比较适宜洗车后未来2天内没有降水、大风或沙尘天气，比较适宜洗车。注意洗车当日气温不能太低以免结冰。
+
+【运动指数】：不适宜天气较冷，多数人不适宜户外运动；
+
+【紫外线指数】：弱紫外线弱
+
+【体感度指数】：偏冷大部分人群外出活动要戴薄手套、薄围巾和帽子。
+ ;
+
+2015-12-29 17:25:26 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451381184 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451381184 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401095011 ;
+
+2015-12-29 17:25:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:25:26 response :
+------------
+
+2015-12-29 17:28:57 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451381395 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451381395 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401095011 ;
+
+2015-12-29 17:28:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 17:28:57 response :
+------------
+
+2015-12-29 18:35:53 trace :
+------------
+Array:
+from : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+to : gh_c035d5b82e08 ;
+time : 1451385411 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjihmHYOYNUXVkpUgdNhJI7k ;
+createtime : 1451385411 ;
+msgtype : event ;
+eventkey : http://market.hasxmy.com/we4/app/index.php?i=3&c=entry&eid=17 ;
+menuid : 401095011 ;
+
+2015-12-29 18:35:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-29 18:35:53 response :
+------------
+

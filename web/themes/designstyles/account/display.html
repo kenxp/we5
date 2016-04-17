@@ -1,0 +1,373 @@
+{template 'common/header-gw'}
+	<style>
+		.alert{color:#666;padding:10px}
+		.text-strong{font-size:14px;font-weight:bold;}
+		.popover{max-width: 450px}
+		.popover-content{padding-top: 0;line-height: 30px}
+		.popover-content h5{padding-bottom: 5px}
+	</style>
+	<div class="clearfix" style="margin-bottom:5em;">
+			<div class="input-group" style="margin-bottom:1em;">
+			<a class="btn btn-primary" href="{url 'account/post-step'}"><i class="fa fa-plus"></i> 添加公号</a>
+			<a class="btn btn-primary" href="{url 'system/welcome'}" style="margin-left: 10px;"><i class="fa fa-cogs"></i>系统管理</a>
+		</div>
+	<div class="clearfix" style="margin-bottom:5em;">
+		{if !$_W['isfounder']}
+			<div class="alert alert-warning">
+				温馨提示：
+				<i class="fa fa-info-circle"></i>
+				Hi，<span class="text-strong">{$_W['username']}</span>，您所在的会员组 <span class="text-strong">{$stat['group_name']}</span>，
+				账号有效期限：<span class="text-strong">{php echo date('Y-m-d', $_W['user']['starttime'])} ~~ {if empty($_W['user']['endtime'])}无限制{else}{php echo date('Y-m-d', $_W['user']['endtime'])}{/if}</span>，
+				可添加 <span class="text-strong">{$stat['maxaccount']} </span>个公众号，已添加<span class="text-strong"> {$stat['uniacid_num']} </span>个，还可添加 <span class="text-strong">{$stat['uniacid_limit']} </span>个公众号。
+			</div>
+<style>
+body, ul, li, h1, h2, h3, h4, p { margin: 0; padding: 0; font-weight: normal}
+ul, li { list-style: none}
+.hide, .undis { display: none}
+a { text-decoration: none;}
+a.cu:hover { cursor: pointer; text-decoration: underline}
+a.de:hover { cursor: default}
+@-webkit-keyframes heartBig {
+0% {
+width:16px;
+opacity:.9;
+filter:alpha(opacity=90)
+}
+100% {
+width:30px;
+opacity:.1;
+filter:alpha(opacity=10)
+}
+}
+@keyframes heartBig {
+0% {
+width:16px;
+opacity:.9;
+filter:alpha(opacity=90)
+}
+100% {
+width:30px;
+opacity:.1;
+filter:alpha(opacity=10)
+}
+}
+@-moz-keyframes heartBig {
+0% {
+width:16px;
+opacity:.9;
+filter:alpha(opacity=90)
+}
+100% {
+width:30px;
+opacity:.1;
+filter:alpha(opacity=10)
+}
+}
+@-o-keyframes heartBig {
+0% {
+width:16px;
+opacity:.9;
+filter:alpha(opacity=90)
+}
+100% {
+width:30px;
+opacity:.1;
+filter:alpha(opacity=10)
+}
+}
+.body_content { width: 100%;float: left; margin: 0 auto; padding-bottom: 10px; background: #f5f5f5; border-radius: 0 0 5px 5px;}
+.body_content .lineA { height: 20px; line-height: 20px}
+.body_content .lineA .fleft:hover a { color: #333; text-decoration: underline}
+.body_content .lineA .fright { float: right; color: #aab2be; font-size: 12px}
+.body_content .lineA .fright .fir { padding-right: 30px}
+.body_content .lineA .fright .sec { padding-right: 10px}
+.body_content .lineB { height: 178px;border-radius: 6px; background-repeat: no-repeat; background-image: url("resource/wechatcss/images/come_2.jpg")}
+.body_content .lineC { height: 186px; background-repeat: no-repeat; background-image: url("resource/wechatcss/images/come_3.jpg")}
+.body_content .lineB .qdleft { float: left; width: 205px; height: 176px; position: relative; overflow: hidden}
+.body_content .lineB .qdleft .btn { text-indent: -9999; display: inline-block; position: absolute; width: 185px; height: 155px; background-image: url("resource/wechatcss/images/noavatar_big.gif"); background-repeat: no-repeat;top: 11px; left: 10px; text-decoration: none}
+.body_content .lineB .qdleft a.btn:visited { color: #0f0}
+.body_content .lineB .qdleft .paiming { margin-top: 134px; *display:inline; position: relative}
+.body_content .lineB .qdleft .paiming .font { font-size: 14px; color: #646c78; display: inline-block; padding-left: 25px}
+.body_content .lineB .qdleft .paiming .pics { font-size: 24px; color: #91cd51; position: absolute; top: 0; left: 122px}
+.body_content .lineB .qdright { float: left;}
+.body_content .lineB .qdright .content { padding-top: 25px; position: relative}
+.body_content .lineB .qdright .content .mainCon { font-size: 12px; line-height: 50px; height: 60px; color: #aab2be; padding-left: 35px}
+.body_content .lineB .qdright .content .mainCon .user { float: left}
+.body_content .lineB .qdright .content .mainCon .user img { border: 2px solid #fcfcfc; border-radius: 50%; vertical-align: middle; border: 3px solid #fff; box-shadow: 0 2px 5px #e6e6e6; width: 40px}
+.body_content .lineB .qdright .content .mainCon .user .author { color: #646c78; font-size: 14px}
+.body_content .lineB .qdright .content .mainCon .user a img { border: 0}
+.body_content .lineB .qdright .content .mainCon .jtitle { line-height: 50px; height: 50px; margin-left: 20px; display: inline-block; float: left}
+.body_content .lineB .qdright .content .mainCon .jingju { float: left; overflow: hidden; display: inline-block; line-height: 50px; height: 50px}
+.body_content .lineB .qdright .content .mainCon .jingju_width { width: 255px}
+.body_content .lineB .qdright .content .mainCon .xyline_show { overflow: auto; width: auto; display: block}
+.body_content .lineB .qdright .content .mainCon .dzqy { float: left; position: relative; font-size: 12px}
+.body_content .lineB .qdright .content .mainCon .dzqy .heart { width: 16px; display: inline-block; position: relative; vertical-align: -2px; z-index: 5; cursor: pointer}
+.body_content .lineB .qdright .content .mainCon .dzqy .heartCopy { position: absolute; top: 15px; left: 0; width: 16px; _display: none; cursor: pointer}
+.body_content .lineB .qdright .content .mainCon .dzqy .zancount { position: absolute; top: 0; left: 30px; width: 50px}
+.body_content .lineB .qdright .content .mainCon .dzqy .warninfo { padding-left: 20px; padding-right: 20px; height: 27px; border: 1px solid #ddd; background-color: #fff; color: #646c78; font-size: 12px; line-height: 27px; text-align: center; position: absolute; border-radius: 15px; top: -22px; left: -30px; display: none}
+.body_content .lineB .qdright .content .mainCon .dzqy .warninfo a { color: #646c78; text-decoration: underline}
+.body_content .lineB .qdright .content .mainCon .dzqy .warninfo .angle { display: inline-block; width: 0; height: 0; border-width: 8px; border-color: #ddd transparent transparent transparent; border-style: solid; position: absolute; bottom: -16px; left: 28px; z-index: 1; _display: none}
+.body_content .lineB .qdright .content .mainCon .dzqy .warninfo .angleC { display: inline-block; width: 0; height: 0; border-width: 7px; border-color: #fff transparent transparent transparent; border-style: solid; position: absolute; bottom: -13px; left: 29px; z-index: 2; _display: none}
+.body_content .lineB .qdright .content .mainCon .dzqy .heartBig { animation: heartBig 1s ease-in-out; -moz-animation: heartBig 1s ease-in-out; -webkit-animation: heartBig 1s ease-in-out; -o-animation: heartBig 1s ease-in-out}
+.body_content .lineB .qdright .content .countqian { list-style-type: none; padding-left: 48px}
+.body_content .lineB .qdright .content .countqian li { float: left; width: 150px; text-align: center}
+.body_content .lineB .qdright .content .countqian li h4 { font-size: 14px; line-height: 20px; color: #646c78}
+.body_content .lineB .qdright .content .countqian li p { color: #aab2be; font-size: 14px; padding-top: 16px; position: relative; height: 30px; line-height: 30px}
+.body_content .lineB .qdright .content .countqian li p b { font-weight: normal}
+.body_content .lineB .qdright .content .countqian li p .big { font-size: 29px; line-height: 30px; font-weight: normal}
+.body_content .lineB .qdright .content .countqian li p .pics { display: inline-block}
+.body_content .lineB .qdright .content .countqian li p .pics span { float: left;height: 26px; display: inline-block; font-family: georgia, palatino;color: #6CAF08;font-size: 22px;font-weight: 550;}
+
+.body_content .lineB .qdright .content .countqian li .lxqd { padding-left: 10px}
+.body_content .lineB .qdright .content .weather_p .con { font-size: 22px; height: 30px; margin-top: 55px; font-weight: normal; line-height: 30px; color: #646c78; text-align: center}
+.body_content .lineB .qdright .content .weather_p .con span { font-size: 12px; color: #aab2be}
+.body_content .lineC { padding-top: 10px}
+.body_content .lineC .lineC_left { float: left; width: 640px; height: 539px; overflow: hidden; background-color: #fff; padding-bottom: 55px; position: relative; border-radius: 5px}
+.body_content .lineC .lineC_left .left_tit { height: 50px; border-bottom: 1px solid #eef0f2}
+.body_content .lineC .lineC_left .left_tit .paihang { padding-left: 15px; list-style-type: none; padding-top: 15px}
+.body_content .lineC .lineC_left .left_tit .paihang li { float: left; border-radius: 3px; width: 65px; height: 24px; line-height: 24px; color: #aab2be; font-size: 12px; text-align: center; font-weight: normal; cursor: pointer;}
+.body_content .lineC .lineC_left .left_tit .paihang .active { color: #fff; background-color: #5D95E8; }
+.body_content .lineC .lineC_left .arr_detail { padding: 15px 15px 0 15px;}
+.body_content .lineC .lineC_left .arr_detail table { width: 610px}
+.body_content .lineC .lineC_left .arr_detail table tr { }
+.body_content .lineC .lineC_left .arr_detail table th { color: #646c78; background: #fcfcfc; border:1px solid #eee; padding: 12px 10px;}
+.body_content .lineC .lineC_left .arr_detail table td { font-size: 12px; color: #646c78; border:1px solid #eee; padding: 12px 10px;}
+.body_content .lineC .lineC_left .btns { width: 68px; height: 25px; line-height: 25px; border: 1px solid #dfdfdf; border-radius: 5px; position: absolute; bottom: 15px; right: 15px}
+
+.body_content .lineC .lineC_left .pg {position: absolute; bottom: 15px; right: 15px}
+.pg a, .pg strong, .pgb a, .pg label {float: none;display: inline-block;min-width: 18px;height: 30px;line-height: 30px;margin-left: -1px;padding: 0 6px;border: 1px solid #e6e9ed;font-size: 14px;text-align: center;font-weight: bold;}
+.pg, .pgb {line-height: 24px;}
+.pg strong {background: #5D95E8;color: #fff;}
+a:link, a:visited {text-decoration: none;}
+.pg a:hover, .pgb a:hover {border: 1px solid #e6e9ed;background-color: #f5f7fa;color: #656d78 !important;}
+.pg *:last-child {border-radius: 0 5px 5px 0;}
+.pg *:first-child {border-radius: 5px 0 0 5px;}
+.body_content .lineC .lineC_right { float: right; width: 290px; overflow: hidden; background-color: #fff; position: relative; border-radius: 5px}
+.body_content .lineC .lineC_right .tit { height: 50px; border-bottom: 1px solid #eef0f2; line-height: 50px; padding-left: 20px; color: #646c78; font-size: 15px}
+.body_content .lineC .lineC_right .photos { padding-bottom: 15px; width: 310px; padding-left: 0}
+.f-trans { -moz-transition-property: all; -moz-transition-duration: .2s; -moz-transition-timing-function: linear; -webkit-transition-property: all; -webkit-transition-duration: .2s; -webkit-transition-timing-function: linear; -o-transition-property: all; -o-transition-duration: .2s; -o-transition-timing-function: linear; transition-property: all; transition-duration: .2s; transition-timing-function: linear; }
+.body_content .lineC .lineC_right .photos li { float: left; width: 123px; padding-left: 15px; padding-top: 15px; display: inline-block; position: relative; overflow: hidden; z-index: 5}
+.body_content .lineC .lineC_right .photos li .head_img { width: 123px; height: 161px}
+.body_content .lineC .lineC_right .photos li .info { width: 103px; height: 131px; position: absolute; padding-top: 30px; padding-left: 10px; padding-right: 10px; bottom: -161px; left: 15px; z-index: 3; background-color: #5D95E8; color: #fff; opacity: 0.9; text-align: left}
+.body_content .lineC .lineC_right .photos li .info h3 { font-size: 14px; font-weight: normal; line-height: 25px}
+.body_content .lineC .lineC_right .photos li .info .con { font-size: 12px; line-height: 20px}
+.body_content .lineC .lineC_right .photos li .info .link { padding-top: 20px; font-size: 12px}
+.body_content .lineC .lineC_right .photos li .info .link img { vertical-align: text-top; border: 0}
+.body_content .lineC .lineC_right .photos li .mask { width: 123px; height: 161px; display: block; z-index: 100; position: absolute; top: 15px; left: 15px; cursor: pointer; z-index: 99; background: #333; filter: alpha(opacity=1); opacity: .01}
+.body_content .lineC .lineC_right .photos li:hover .info { bottom: 0;}
+.body_content .lineD { padding-top: 10px}
+.body_content .lineD .tit { background-color: #fff; height: 50px; line-height: 50px; padding-left: 20px; border-bottom: 1px solid #eef0f2; font-size: 15px; color: #646c78}
+.body_content .lineD .content { padding-top: 10px; background-color: #fff; height: 195px; overflow: hidden;}
+.body_content .lineD .content .leftcon { }
+.body_content .lineD .content .leftcon li { width: 142px; height: 60px; padding-left: 90px; float: left; position: relative; padding-top: 8px}
+.body_content .lineD .content .leftcon li img { position: absolute; top: 0; left: 35px; width: 40px; height: 40px; border-radius: 50%; vertical-align: middle; border: 3px solid #fff; box-shadow: 0 2px 5px #e6e6e6}
+.body_content .lineD .content .leftcon li .author { font-size: 14px; line-height: 20px; color: #646c78}
+.body_content .lineD .content .leftcon li .thing { font-size: 12px; line-height: 20px; color: #646c78}
+.body_content .lineD .content .leftcon li a img { border: 0}
+</style>
+<div class="body_content">
+    <div class="lineB cl">
+        <div class="qdleft">
+        <span class="btn btnvisted"></span>
+        </div>
+        <div class="qdright">
+            <div class="content">
+                <h3 class="mainCon">
+                    <div class="user">
+                        <img src="resource/wechatcss/images/power1.png">                        <a href="#" class="author"> Hi，{$_W['username']}</a>
+                    </div>
+                    <span class="jtitle text-strong">您所在的会员组：</span>
+                    <div class="jingju J_xyline">
+                        <span id="bigpower" class="text-strong">{$stat['group_name']}</span><span>(有效期限:{php echo date('Y-m-d', $_W['user']['starttime'])} ~~ {if empty($_W['user']['endtime'])}无限制{else}{php echo date('Y-m-d', $_W['user']['endtime'])}{/if})</span> 
+                    </div>
+                </h3>
+                <ul class="countqian cl">
+                    <li>
+                        <h4> 可添加公众号 </h4>
+                        <p>
+                            <b class="pics J_numpic J_animation" style="height:23px;">
+                                                                <span class="snum1">{$stat['maxaccount']}</span>
+                                                            </b>  
+                            <b class="qiandao"> 个 </b>
+                        </p>
+                    </li>
+                    <li>
+                        <h4> 已添加公众号 </h4>
+                        <p>
+                            <b class="pics J_numpic J_animation" style="height:23px;">
+                                                                <span class="snum1">{$stat['uniacid_num']}</span>
+                                                            </b>  
+                            <b class="qiandao"> 个 </b>
+                        </p>
+                    </li>
+                    <li>
+                        <h4> 还可接入数量 </h4>
+                        <p>
+                            <input type="hidden" class="hidnum" id="lxtdays" value="2">
+                            <b class="pics J_numpic J_animation" style="height:23px;">
+                                                                <span class="snum1">{$stat['uniacid_limit']}</span>
+                                 </b>
+                            <b class="qiandao"> 个 </b>
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+		{/if}
+		<form action="./index.php" method="get" role="form">
+			<input type="hidden" name="c" value="account">
+			<input type="hidden" name="a" value="display">
+			<div class="form-group">
+				<div class="input-group">
+					<input type="text" class="form-control {if empty($_GPC['keyword']) && !empty($_GPC['s_uniacid'])}hide{/if}" placeholder="请输入微信公众号名称" name="keyword" id="s_keyword" value="{$_GPC['keyword']}">
+					<input type="text" class="form-control {if empty($_GPC['s_uniacid'])}hide{/if}" placeholder="请输入微信公众号ID" name="s_uniacid" id="s_uniacid" value="{$_GPC['s_uniacid']}">
+					<div class="input-group-btn">
+						<button class="btn btn-default"><i class="fa fa-search"></i> 搜索</button>
+						<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></button>
+						<ul class="dropdown-menu dropdown-menu-right" role="menu">
+							<li><a href="javascript:;" onclick="$('#s_uniacid').addClass('hide').val('');$('#s_keyword').removeClass('hide');">根据公众号名称搜索</a></li>
+							<li><a href="javascript:;" onclick="$('#s_uniacid').removeClass('hide');$('#s_keyword').addClass('hide').val('');">根据公众号ID搜索</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</form>
+		<div class="input-group">
+			<a style="margin-left:5px;" href="{$authurl}"><img src="https://open.weixin.qq.com/zh_CN/htmledition/res/assets/res-design-download/icon_button3_2.png" /></a>
+		</div>
+		<ul class="list-unstyled account">
+			{loop $list $uni}
+			{php $subaccount = count($uni['details']);}
+			<li>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<div class="row clearfix">
+							<div class="col-xs-6">
+								<span style="cursor:pointer; color:#999;" class="setmeal-hover" data-uid="{$uni['setmeal']['uid']}"  data-uniacid="{$uni['name']}" data-groupid="{$uni['setmeal']['groupid']}">
+									套餐 : {$uni['setmeal']['groupname']}
+								</span>
+							</div>
+							<div class="col-xs-6 text-right">
+								<a href="{php echo url('account/switch', array('uniacid' => $uni['uniacid']))}" target="_blank" class="manage"><i class="fa fa-cog"></i>管理公众号</a>
+							</div>
+						</div>
+					</div>
+					<ul class="panel-body list-group">
+						{loop $uni['details'] $account}
+						<li class="row list-group-item" style="line-height:60px;">
+							<div class="col-xs-12 col-sm-12 col-md-2 col-lg-1">
+								<img {if file_exists(IA_ROOT . '/attachment/headimg_'.$account['acid'].'.jpg')} src="{$_W['attachurl_local']}headimg_{$account['acid']}.jpg?acid={$account['acid']}"{else}src="resource/images/gw-wx.gif"{/if} class="" width="50" height="50"  onerror="this.src='resource/images/gw-wx.gif'" />
+							</div>
+							<div class="col-xs-12 col-sm-12 col-md-4 col-lg-5 item" style="font-size:16px;">
+								{$account['name']}
+							</div>
+							<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 item text-right">
+								<span style="width:80px; text-align:center; display:inline-block;">{if $account['isconnect'] == 1}<i class="fa fa-2x fa-check-circle text-success" style="position:absolute; top:15px;" data-toggle="tooltip" data-placement="top" title='接入状态 : 成功接入'></i>{$types[$account['type']]['title']}{else}<i class="fa fa-2x fa-times-circle text-warning" style="position:absolute; top:15px;" data-toggle="tooltip" data-placement="top" title='公众号接入状态显示“未接入”解决方案：进入微信公众平台，依次选择: 开发者中心 -> 修改配置，然后将对应公众号在
+								平台的url和token复制到微信公众平台对应的选项，公众平台会自动进行检测'></i>{$types[$account['type']]['title']}{/if}</span>
+								
+								{if $subaccount > 1 && $uni['role'] <> 'operator'}
+									<div style="display:inline-block; border-left:1px #DDD solid; padding-left:20px; margin-left:20px;">
+									{if $account['acid'] != $uni['default_acid']}
+										<a data-toggle="tooltip" data-placement="top" title='设置为默认后，主公号与此子号绑定，后台一切接口权限将从此子号获取' href="{php echo url('account/default',  array('acid' => $account['acid'], 'uniacid' => $account['uniacid']))}" class="btn btn-sm btn-primary" style="color:#fff;"><i class="fa fa-pencil"></i> 设为默认</a>
+									{/if}
+									<a href="{php echo url('account/summary', array('acid' => $account['acid'], 'uniacid' => $account['uniacid']))}" class="btn btn-sm btn-default"><i class="fa fa-bar-chart-o"></i>详情</a>
+									{if $account['acid'] == $uni['default_acid']}
+										<a href="{php echo url('account/post', array('uniacid' => $account['uniacid']))}" class="btn btn-sm btn-default"><i class="fa fa-pencil"></i>编辑</a>
+									{else}
+										<a href="{php echo url('account/post', array('acid' => $account['acid'], 'uniacid' => $account['uniacid']))}" class="btn btn-sm btn-default"><i class="fa fa-pencil"></i>编辑</a>
+									{/if}
+									<a href="{php echo url('account/delete', array('acid' => $account['acid']))}" onclick="return confirm('确认删除吗？');return false;" class="btn btn-sm btn-default"><i class="fa fa-times"></i>删除</a>
+									</div>
+								{/if}
+							</div>
+						</li>
+						{/loop}
+					</ul>
+					<div class="list-group-bottom">
+						<div class="col-xs-6 list-group-bottom-left">
+							<span>服务有效期 : {$uni['setmeal']['timelimit']}</span>
+						</div>
+						<div class="col-xs-6 text-right list-group-bottom-right">
+							{if $uni['role'] == 'founder'}
+							<a href="{php echo url('account/post-step', array('step' => '3', 'uniacid' => $uni['uniacid'], 'from' => 'list'))}"><i class="fa fa-key"></i>设置权限</a>
+							{/if}
+							{if $uni['role'] == 'founder' || $uni['role'] == 'manager'}
+							<a href="{php echo url('account/permission', array('uniacid' => $uni['uniacid']))}"><i class="fa fa-user"></i>操作员管理</a>
+							{if $subaccount == 1}<a href="{php echo url('account/post', array('uniacid' => $uni['uniacid']))}"><i class="fa fa-edit"></i>编辑</a>{/if}
+							<a href="{php echo url('account/delete', array('uniacid' => $uni['uniacid']))}" onclick="return confirm('删除主公众号其所属的子公众号及其它数据会全部删除，确认吗？');return false;"><i class="fa fa-times"></i>删除</a>
+							{/if}
+						</div>
+					</div>
+				</div>
+			</li>
+			{/loop}
+		</ul>
+	{$pager}
+	</div>
+<script type="text/javascript">
+	require(['bootstrap'],function($){
+		$('[data-toggle="tooltip"]').hover(function(){
+			$(this).tooltip('show');
+		},function(){
+			$(this).tooltip('hide');
+		});
+		$('.setmeal-hover').hover(function(){
+			var uid = $(this).data('uid');
+			var groupid = $(this).data('groupid');
+			var title = $(this).data('uniacid');
+			var obj = $(this);
+			if(groupid == -1) {
+				obj.popover({
+					'html':true,
+					'placement':'right',
+					'trigger':'manual',
+					//'title':title,
+					'content':'<h5>可用的服务套餐</h5><div style="margin-top: -15px"><span class="label label-success">所有服务</span></div>'
+				});
+				obj.popover('show');
+			}else {
+				$.post("{php echo url('account/display')}", {uid:uid, groupid:groupid}, function(data){
+					var data = $.parseJSON(data);
+					var content = '';
+					if(data.message.message.groupname.length > 0) {
+						content += '<h5>可用的服务套餐</h5>';
+						content += '<div style="margin-top: -15px">';
+						$.each(data.message.message.groupname, function (i,val) {
+								content += '<span class="label label-success">'+val.name+'</span> ';
+						});
+						content += '</div>';
+					}
+					if(data.message.message.modules && data.message.message.modules.length > 0) {
+						content += '<h5>附加的模块权限</h5>';
+						content += '<div style="margin-top: -15px">';
+						$.each(data.message.message.modules, function (i,val) {
+							content += '<span class="label label-success">'+val.title+'</span> ';
+						});
+						content += '</div>';
+					}
+					if(data.message.message.templates && data.message.message.templates.length > 0) {
+						content += '<h5>附加的模板权限</h5>';
+						content += '<div style="margin-top: -15px">';
+						$.each(data.message.message.templates, function (i,val) {
+							content += '<span class="label label-success">'+val.title+'</span> ';
+						});
+						content += '</div>';
+					}
+					obj.popover({
+						'html':true,
+						'placement':'right',
+						'trigger':'manual',
+						//'title':title,
+						'content':content
+					});
+					obj.popover('show');
+				});
+			}
+		}, function(){
+			$(this).popover('hide');
+		});
+	});
+</script>
+{template 'common/footer-gw'}

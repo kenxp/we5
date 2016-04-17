@@ -1,0 +1,26 @@
+2015-12-18 23:51:06 trace :
+------------
+Array:
+from : oOhiYjrBOot0KMhEVTtDxhZVyyHY ;
+to : gh_c035d5b82e08 ;
+time : 1450453865 ;
+type : event ;
+event : VIEW ;
+tousername : gh_c035d5b82e08 ;
+fromusername : oOhiYjrBOot0KMhEVTtDxhZVyyHY ;
+createtime : 1450453865 ;
+msgtype : event ;
+eventkey : http://fx.wbok.cn/index/279083?tercode=279083 ;
+
+2015-12-18 23:51:06 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-18 23:51:06 response :
+------------
+Array:
+params : Array ;
+
